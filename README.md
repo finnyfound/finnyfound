@@ -1,9 +1,8 @@
-- 👋 Hi, I’m @finnyfound
-- 👀 I’m interested in javascript, react and nodejs ...
-- 🌱 I’m currently learning react native and express ...
-- 💞️ I’m looking to collaborate on projects that include my current techstack ...
-- 📫 How to reach me twitter.com/finnyfound ...
-
+- 👋 Hi, I’m a Full-Stack Developer (MERN + DevOps).
+- 👀 I’m interested in JavaScript ecosystem internals, Linux server administration, and Database optimization.
+- 🌱 I’m currently learning Golang, Wails, and AI/ML deployment.
+- 💞️ I’m looking to collaborate on scalable web infrastructure and developer productivity tools.
+- 📫 How to reach me: [[Twitter/X]](http://x.com/finnyfound)
 <!---
 finnyfound/finnyfound is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
